@@ -67,7 +67,7 @@ declare namespace Beam {
 
     constructor(canvas: HTMLCanvasElement, config?: {
       contextAttributes: object;
-      extensions: string[];
+      extensions?: string[];
     })
 
     clear(color?: [Number, Number, Number, Number]): this
