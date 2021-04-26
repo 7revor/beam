@@ -1,6 +1,6 @@
 {
-  "name": "beam-gl",
-  "version": "0.1912.0",
+  "name": "@7revor/beam-gl",
+  "version": "0.0.1",
   "description": "Expressive WebGL",
   "main": "src/index.js",
   "types": "./index.d.ts",
@@ -19,6 +19,6 @@
     "image processing",
     "shadow mapping"
   ],
-  "author": "Yifeng Wang",
+  "author": "7revor",
   "license": "MIT"
 }
